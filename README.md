@@ -80,7 +80,7 @@ As we know SVG can be referenced as an image.
 
 And then...
 
-[![SVG Charts](https://chat.error.work/room/@test/svg?width=750&height=360&limit=20&theme=light&fontSize=13&title=jad@github.com:%20%7E)](https://chat.error.work/room/@test)
+[![SVG Charts](https://chat.error.work/room/@wangtwothree/svg?width=600&height=280&limit=20&theme=light&fontSize=13&title=WangTwoThree@chat_room)](https://chat.error.work/room/@wangtwothree)
 
 **Magical!** a **Real-time** chart that can be inserted into any document that supports images.
 
